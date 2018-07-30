@@ -2,84 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6853ebf7-aa20-45c3-9b18-6f24019229a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dd-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/dd-index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1900699058-1_l_2(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1901071859-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1901072569-1_l_2(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1901074503-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1901074505-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1901074880-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2016101216101999034.hpmc4AiN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2016110120354244376.hpiabBPM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2017082109264354456.hpwaSvJQ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20170925155345899.hpUOvIjJ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2017121813582854298.hp6LpZ2O" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018032019063736043.hpG6FK8Z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018033013461781322.hp2Vgs5N" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/201804181542188527.hp5IXyI6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180504111248439.hpfWQ5FE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018050714151495899.hpTooLHy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018050909462668295.hp3RPNxo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018061311432375733.hpyqwb4y" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180711_qkvk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072317104134070.hpamEv9z" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072317111910833.hpfnwJfM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072317114665671.hpTAuz36" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/201807231713368866.hpbozcMR" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072317152291081.hpaJ2h6G" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072317171835862.hp3VtVDh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/20180723171909259.hpPryVjq" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/201807241118419565.hpKUX5Xf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072514161725762.hpvP1MlN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072514230837370.hpYpcFpT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072514233681961.hpXJJmBD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072517432266060.hpVmwsck" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072609175824115.hpY8TcGP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072709053071357.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2018072715191278267.hpn6ocCy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/23751637-1_l_18(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25137790-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25201595-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25208796-1_l_3(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25257729-1_l_3(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25265178-1_l_5(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25283332-1_l_6(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25284775-1_l_10(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25287200-1_l_7(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25288392-1_l_1(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25288851-1_l_17(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25290696-1_l_3(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25291004-1_l_6(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25291460-1_l_3(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25293105-1_l_5(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25295369-1_l_6(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25295998-1_l_5(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25296519-1_l_5(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25297395-1_l_2(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/25298333-1_l_6(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/6980a660-38bd-4629-a74e-c79c7c2db431.hpuWMccm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/7d593c48-48f6-4fc9-85e0-7d6e10dfc2a2.hpvgUvc9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/DangDanglogoNEW-1531446546(2).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/DangDanglogoNEW-1531446546(3).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/collect(2).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/collect(3).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/erweima2(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/erweima2(3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/footer_bg(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/footer_bg(3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/guanggao02(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/head_sprite(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/head_sprite(3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hot1(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon_cart(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon_cart(3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/validate(2).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/validate(3).gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/背景" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dd-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/dd-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/dd-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/dd-index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/dd-index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/dd-index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/dd-index.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,16 +19,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.62593704">
+    <splitter split-orientation="horizontal" split-proportion="0.6154423">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="dd-index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/dd-index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="127">
-                  <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+                <state relative-caret-position="405">
+                  <caret line="119" column="48" lean-forward="true" selection-start-line="119" selection-start-column="48" selection-end-line="119" selection-end-column="48" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -110,14 +39,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="dd-index.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="105" column="26" lean-forward="true" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+                <state relative-caret-position="449">
+                  <caret line="168" column="14" lean-forward="true" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
                   <folding>
-                    <element signature="e#598#620#0" />
+                    <element signature="e#501#3539#0" />
                   </folding>
                 </state>
               </provider>
@@ -134,6 +63,11 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s2</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -157,10 +91,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="166" />
-    <option name="y" value="190" />
-    <option name="width" value="1023" />
-    <option name="height" value="656" />
+    <option name="x" value="75" />
+    <option name="y" value="299" />
+    <option name="width" value="1328" />
+    <option name="height" value="554" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -170,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +121,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,11 +155,13 @@
       <option name="presentableId" value="Default" />
       <updated>1532913743856</updated>
       <workItem from="1532913745028" duration="13347000" />
+      <workItem from="1532949150946" duration="6770000" />
+      <workItem from="1532955990619" duration="2662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13347000" />
+    <option name="totallyTimeSpent" value="22779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -233,21 +169,21 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.023426061" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,35 +193,73 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dd-index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.626/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="18" column="32" lean-forward="true" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/dd-index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dd-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        <state relative-caret-position="1298">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="3190">
+          <caret line="145" column="17" lean-forward="true" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
+          <folding>
+            <element signature="e#501#3539#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
           <caret line="105" column="26" lean-forward="true" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
           <folding>
-            <element signature="e#598#620#0" />
+            <element signature="e#501#3539#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd-index.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.626/demo.css" />
+    <entry file="file://$PROJECT_DIR$/scss/dd-index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="119" column="48" lean-forward="true" selection-start-line="119" selection-start-column="48" selection-end-line="119" selection-end-column="48" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="168" column="14" lean-forward="true" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
+          <folding>
+            <element signature="e#501#3539#0" />
           </folding>
         </state>
       </provider>

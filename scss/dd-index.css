@@ -24,7 +24,7 @@ img {
 
 .header {
   width: 100%; }
-  .header a {
+  .header .head {
     width: 1200px;
     margin: 0 auto;
     display: block; }
@@ -65,9 +65,9 @@ img {
             font-size: 12px;
             color: #646464; }
       .header .h-nav .nav .h-nav-nav {
-        width: 1000px;
+        margin-top: 2px;
         float: right;
-        height: 34px; }
+        height: 32px; }
         .header .h-nav .nav .h-nav-nav .h-hi {
           float: left;
           width: 185px;
@@ -88,13 +88,54 @@ img {
               margin-left: 5px;
               color: #646464; }
         .header .h-nav .nav .h-nav-nav ul {
-          float: left;
-          width: 810px; }
+          float: left; }
           .header .h-nav .nav .h-nav-nav ul li {
+            position: relative;
             float: left;
-            width: auto;
-            padding: 0 5px; }
+            padding: 0 8px 0 7px;
+            height: 34px;
+            line-height: 34px;
+            background: url(../img/bj1.jpg) no-repeat center left; }
+            .header .h-nav .nav .h-nav-nav ul li:first-child {
+              background: none; }
+            .header .h-nav .nav .h-nav-nav ul li a {
+              color: #646464;
+              font-size: 12px;
+              height: 14px;
+              line-height: 34px; }
+            .header .h-nav .nav .h-nav-nav ul li .s2 {
+              display: inline-block;
+              background: url("../img/car.jpg");
+              margin: 0 9px 0 12px;
+              width: 15px;
+              height: 14px; }
+            .header .h-nav .nav .h-nav-nav ul li .s1 {
+              margin-left: 4px;
+              background-position: 45px 0;
+              width: 5px;
+              height: 5px; }
             .header .h-nav .nav .h-nav-nav ul li ul {
+              position: absolute;
+              top: 22px;
+              left: 0;
               display: none; }
+              .header .h-nav .nav .h-nav-nav ul li ul li {
+                clear: both;
+                background: none;
+                line-height: 22px;
+                height: 22px;
+                padding: 0px;
+                text-indent: 8px; }
+  .header .h-sech {
+    width: 1200px;
+    margin: 0 auto;
+    height: 100px; }
+    .header .h-sech .imgs {
+      flaot: left; }
+    .header .h-sech .serch {
+      flaot: left;
+      width: 561px; }
+    .header .h-sech .dcn {
+      flaot: left; }
 
 /*# sourceMappingURL=dd-index.css.map */
