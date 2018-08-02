@@ -38,11 +38,20 @@ img {
   background: url("../img/footer_bg.png") no-repeat; }
 
 .header {
-  width: 100%; }
+  width: 100%;
+  border-bottom: 3px solid #ff2832; }
+  .header:after {
+    content: "";
+    clear: both;
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden; }
   .header .head {
     width: 1200px;
     margin: 0 auto;
-    display: block; }
+    display: block;
+    overflow: hidden; }
   .header .h-nav {
     width: 100%;
     height: 34px;
@@ -51,16 +60,23 @@ img {
     .header .h-nav .nav {
       width: 1200px;
       margin: 0 auto; }
+      .header .h-nav .nav:after {
+        content: "";
+        clear: both;
+        display: block;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden; }
       .header .h-nav .nav .address {
         float: left;
         margin-top: 2px;
         height: 24px;
         line-height: 24px;
         text-indent: 8px;
-        border: 1px solid black;
         padding-right: 11px;
         font-size: 12px;
-        color: #646464; }
+        color: #646464;
+        position: relative; }
         .header .h-nav .nav .address .s1 {
           display: inline-block;
           margin-left: 4px;
@@ -68,6 +84,11 @@ img {
           width: 5px;
           height: 5px; }
         .header .h-nav .nav .address ul {
+          background: #ffffff;
+          position: absolute;
+          top: 22px;
+          left: 0px;
+          z-index: 10;
           width: 296px;
           border: 1px solid #e6e6e6;
           padding: 8px 0px 5px 12px;
@@ -189,6 +210,13 @@ img {
         vertical-align: bottom; }
       .header .h-sech .serch form .s3 {
         background-position: 0px -390px; }
+      .header .h-sech .serch .sec-bottom:after {
+        content: "";
+        clear: both;
+        display: block;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden; }
       .header .h-sech .serch .sec-bottom .box1 {
         float: left;
         color: #969696;
@@ -210,6 +238,12 @@ img {
       .header .h-sech .dcn a {
         float: left;
         font-size: 12px; }
+        .header .h-sech .dcn a svg {
+          float: left;
+          padding-left: 3px;
+          font-size: 24px;
+          height: 40px;
+          line-height: 40px; }
       .header .h-sech .dcn .a1 {
         height: 40px;
         background: #ff2832;
@@ -231,6 +265,36 @@ img {
         color: #64647a;
         text-align: center;
         line-height: 36px; }
+  .header .h-bot {
+    width: 1200px;
+    margin: 0 auto;
+    height: 40px; }
+    .header .h-bot li {
+      float: left;
+      height: 40px; }
+      .header .h-bot li:first-child {
+        background: #ff2832; }
+        .header .h-bot li:first-child a {
+          width: 155px;
+          margin: 0 20px;
+          color: #ffffff; }
+          .header .h-bot li:first-child a span {
+            float: right;
+            width: 12px;
+            height: 7px;
+            padding-right: 7px; }
+      .header .h-bot li a {
+        line-height: 40px;
+        height: 40px;
+        font-size: 12px;
+        display: block;
+        margin-left: 32px;
+        color: #323232;
+        font-weight: 600; }
+
+.banner {
+  width: 100%;
+  background: blue; }
 
 .center .c1 {
   overflow: hidden;
