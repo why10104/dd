@@ -320,7 +320,7 @@ img {
       .banner .ban .ban-boxleft ul {
         background: #fafafa;
         height: 483px;
-        padding: 5px; }
+        padding-top: 5px; }
         .banner .ban .ban-boxleft ul li {
           height: 30px;
           width: 182px;
@@ -379,13 +379,74 @@ img {
                 width: auto; }
     .banner .ban .ban-b-con {
       float: left;
-      width: 796px;
-      background: red; }
+      width: 796px; }
+      .banner .ban .ban-b-con .cont1 {
+        width: 796px;
+        height: 326px; }
+        .banner .ban .ban-b-con .cont1 .swiper-pagination .swiper-pagination-bullet {
+          width: 20px;
+          height: 20px; }
+      .banner .ban .ban-b-con .cont2 {
+        width: 794px;
+        height: 160px;
+        border: 1px solid #e6e6e6; }
+        .banner .ban .ban-b-con .cont2 ul {
+          width: 794px;
+          height: 160px; }
+          .banner .ban .ban-b-con .cont2 ul li {
+            float: left;
+            width: 198px;
+            height: 160px;
+            border-right: 1px solid #e6e6e6; }
+            .banner .ban .ban-b-con .cont2 ul li:last-child {
+              border: none;
+              width: 197px; }
     .banner .ban .ban-b-right {
       float: left;
-      width: 204px;
-      background: yellow;
-      height: 50px; }
+      width: 202px;
+      height: 486px;
+      border: 1px solid #e6e6e6; }
+      .banner .ban .ban-b-right .b-r-1 {
+        display: block; }
+      .banner .ban .ban-b-right .b-r-c {
+        height: 171px;
+        boder-bottom: 1px solid #e6e6e;
+        position: relative;
+        border-top: 1px solid #e6e6e6;
+        border-bottom: 1px solid #e6e6e6; }
+        .banner .ban .ban-b-right .b-r-c .rc-t {
+          height: 29px; }
+          .banner .ban .ban-b-right .b-r-c .rc-t span {
+            display: inline-block;
+            width: 98px;
+            height: 28px;
+            font-size: 12px;
+            color: #646464;
+            background: #f0f0f0;
+            border-bottom: 1px solid #e6e6e6;
+            line-height: 28px;
+            text-align: center;
+            border-right: 1px solid #e6e6e6; }
+            .banner .ban .ban-b-right .b-r-c .rc-t span:last-child {
+              border-right: none; }
+        .banner .ban .ban-b-right .b-r-c ul {
+          padding-top: 8px;
+          width: 100%;
+          position: absolute;
+          background: #fff;
+          left: 0;
+          top: 29px; }
+          .banner .ban .ban-b-right .b-r-c ul li {
+            margin-left: 10px;
+            line-height: 25px;
+            font-size: 12px;
+            color: #646464; }
+      .banner .ban .ban-b-right .b-r-t {
+        height: 118px;
+        width: 202px; }
+        .banner .ban .ban-b-right .b-r-t .btt1 {
+          height: 118px;
+          width: 202px; }
 
 .center .c1 {
   overflow: hidden;

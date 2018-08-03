@@ -391,7 +391,7 @@ img{
        ul{
          background:#fafafa;
          height:483px;
-         padding:5px;
+         padding-top:5px;
          li{
            height:30px;
            width:182px;
@@ -463,13 +463,91 @@ img{
      .ban-b-con{
        float:left;
        width:796px;
-       background:red;
+       .cont1 {
+         width: 796px;
+         height:326px;
+         .swiper-pagination .swiper-pagination-bullet {
+           width:20px;
+           height:20px;
+         }
+       }
+       .cont2 {
+         width: 794px;
+         height:160px;
+         border:1px solid #e6e6e6;
+         ul{
+           width: 794px;
+           height:160px;
+           li{
+             float:left;
+             width:198px;
+             height:160px;
+             border-right:1px solid #e6e6e6;
+             &:last-child{
+                border:none;
+               width:197px;
+             }
+           }
+
+       }
+         
+       }
      }
      .ban-b-right{
        float:left;
-       width:204px;
-       background:yellow;
-       height:50px;
+       width:202px;
+       height:486px;
+       border:1px solid #e6e6e6;
+        .b-r-1{
+          display:block;
+        }
+       .b-r-c{
+         height:171px;
+         boder-bottom:1px solid #e6e6e;
+         position:relative;
+         border-top:1px solid #e6e6e6;
+         border-bottom:1px solid #e6e6e6;
+         .rc-t{
+           height:29px;
+           span{
+             display: inline-block;
+             width:98px;
+             height:28px;
+             font-size:12px;
+             color:#646464;
+             background:#f0f0f0;
+             border-bottom:1px solid #e6e6e6;
+             line-height:28px;
+             text-align:center;
+             border-right:1px solid #e6e6e6;
+             &:last-child{
+               border-right:none;
+             }
+           }
+         }
+         ul{
+           padding-top:8px;
+           width:100%;
+           position: absolute;
+           background:#fff;
+           left:0;
+           top:29px;
+           li{
+             margin-left:10px;
+             line-height:25px;
+             font-size:12px;
+             color:#646464;
+           }
+         }
+       }
+       .b-r-t{
+         height:118px;
+         width:202px;
+         .btt1{
+           height:118px;
+           width:202px;
+         }
+       }
      }
    }
 }
