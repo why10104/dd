@@ -3,13 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <title>当当-网上购物中心：图书、母婴、美妆、家居、数码、家电、服饰、鞋包等，正品低价，货到付款</title>
-<link rel="stylesheet" href="scss/dd-index.css">
+<link rel="stylesheet" href="css/dd-index.css">
+<link rel="stylesheet" href="css/swiper-4.3.3.min.css">
 <script src="//at.alicdn.com/t/font_772165_25j4jx0ijjtj.js"></script>
     <!--<svg class="icon" aria-hidden="true">-->
         <!--<use xlink:href="#icon-xxx"></use>-->
     <!--</svg>-->
-<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/dd-index.js"></script>
+<script src="js/swiper-4.3.3.min.js"></script>
 </head>
 <body>
 <!--头部-->
@@ -67,7 +69,7 @@
                     </li>
                     <li><a href="#">我的订单</a></li>
                     <li><a href="#">我的云书屋</a></li>
-                    <li><a href="#">我的当当 <span class="s1"></span></a>
+                    <li class="hea-lix"><a href="#">我的当当 <span class="s1"></span></a>
                         <ul>
                             <li><a href="#">积分抵现</a></li>
                             <li><a href="#">我的收藏</a></li>
@@ -78,7 +80,7 @@
                     </li>
                     <li><a href="#">小说投稿</a></li>
                     <li><a href="#">我要出书</a></li>
-                    <li><a href="#">企业采购 <span class="s1"></span></a>
+                    <li class="hea-lix"><a href="#">企业采购 <span class="s1"></span></a>
                         <ul>
                             <li><a href="#">大宗采购</a></li>
                             <li><a href="#">礼品卡采购</a></li>
@@ -87,7 +89,7 @@
                             <li><a href="#">3c数码团购</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">客户服务 <span class="s1"></span></a>
+                    <li class="hea-lix"><a href="#">客户服务 <span class="s1"></span></a>
                         <ul>
                             <li><a href="#">帮助中心</a></li>
                             <li><a href="#">自助退换货</a></li>
@@ -178,22 +180,108 @@
     </ul>
 </div>
 <div class="banner">
-    <div class="ban-bot">
+    <div class="ban">
         <div class="ban-boxleft">
             <ul>
-                <li>01</li>
-                <li>02</li>
-                <li>03</li>
-                <li>&</li>
-                <li>&</li>
-                <li>&</li>
-                <li>&</li>
-                <li>&</li>
+                <li><a href="#">图书</a><a href="#">童书</a></li>
+                <li><a href="#">电子书</a><a href="#">网络文学</a></li>
+                <li><a href="#">创意文具</a><a href="#">当当拍卖</a></li>
+                <li><a href="#">图书</a><a href="#">童书</a></li>
+                <li><a href="#">电子书</a><a href="#">网络文学</a></li>
+                <li><a href="#">创意文具</a><a href="#">当当拍卖</a></li>
+                <li><a href="#">图书</a><a href="#">童书</a></li>
+                <li><a href="#">电子书</a><a href="#">网络文学</a></li>
+                <li><a href="#">创意文具</a><a href="#">当当拍卖</a></li>
+
+
             </ul>
-            <div class="ban-left-b1"></div>
+            <ul class="ban-left-b1">
+                <div class="ban-abox">
+                    <a href="#"><span>图书馆</span> <span></span></a>
+                    <a href="#"><span>童书馆</span> <span></span></a>
+                </div>
+                <li>
+                    <a href="#" class="afirst">人文社科</a>
+                    <ul>
+                        <li>
+                            <a href="#">哲学宗教</a>
+                            <a href="#">历史</a>
+                            <a href="#">政治军事</a>
+                            <a href="#">文化</a>
+                            <a href="#">社会科学</a>
+                            <a href="#">心理学</a>
+                            <a href="#">古籍</a>
+                            <a href="#">法律</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="afirst">励志</a>
+                    <ul>
+                        <li>
+                            <a href="#">励志成功</a>
+                            <a href="#">心灵修养</a>
+                            <a href="#">职场</a>
+                            <a href="#">人生哲学</a>
+                            <a href="#">人际交往</a>
+                            <a href="#">口才、演讲、辩论</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="afirst">人文社科</a>
+                    <ul>
+                        <li>
+                            <a href="#">哲学宗教</a>
+                            <a href="#">历史</a>
+                            <a href="#">政治军事</a>
+                            <a href="#">文化</a>
+                            <a href="#">社会科学</a>
+                            <a href="#">心理学</a>
+                            <a href="#">古籍</a>
+                            <a href="#">法律</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" class="afirst">励志</a>
+                    <ul>
+                        <li>
+                            <a href="#">励志成功</a>
+                            <a href="#">心灵修养</a>
+                            <a href="#">职场</a>
+                            <a href="#">人生哲学</a>
+                            <a href="#">人际交往</a>
+                            <a href="#">口才、演讲、辩论</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
         </div>
         <div class="ban-b-con">
-            <div class="cont1"></div>
+            <div class="cont1">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a href="#"><img src="img/b11.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b12.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b13.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b14.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b15.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b16.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b17.jpg" alt=""></a></div>
+                        <div class="swiper-slide"><a href="#"><img src="img/b18.jpg" alt=""></a></div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="swiper-pagination"></div>
+
+                    <!-- 如果需要导航按钮 -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                    <!-- 如果需要滚动条 -->
+                    <div class="swiper-scrollbar"></div>
+                </div>
+            </div>
             <ul class="cont1">
                  <li></li>
             </ul>
