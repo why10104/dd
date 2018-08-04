@@ -96,7 +96,17 @@ $(function(){
         },
     });
 
+    //侧边栏1
+    // $(".as1").each(function(){
+    //     $(this). hover(function(){
+    //         $(this).children().css("left","-70px");
+    //     });
+    // });
 
+    $(".as1").hover(function(){
+        $(this).css("background-position","-35px");
+        $(this).children().css("left","-79px");
+    });
 
 });
 
