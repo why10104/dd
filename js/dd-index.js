@@ -1,11 +1,11 @@
 $(function(){
 //   头部
-//     setTimeout(function(){
-//         setTimeout(function(){
-//             $(".header .head").css("display","none");
-//         },2000);
-//         $(".header .head").css("height","200px");
-//     },3000);
+    setTimeout(function(){
+        setTimeout(function(){
+            $(".header .head").css("display","none");
+        },2000);
+        $(".header .head").css("height","200px");
+    },3000);
 
     //地地址栏显示隐藏  //北京
       $(".address").hover( function () {
@@ -96,18 +96,41 @@ $(function(){
         },
     });
 
-    //侧边栏1
-    // $(".as1").each(function(){
-    //     $(this). hover(function(){
-    //         $(this).children().css("left","-70px");
-    //     });
-    // });
-
+    //侧边栏效果
     $(".as1").hover(function(){
-        $(this).css("background-position","-35px");
         $(this).children().css("left","-79px");
+    },function(){
+        $(this).children().css("left","100px");
     });
 
+
+    $(".ass1").hover(function(){
+        $(".imms").css("left","-350px");
+    },function(){
+        $(".imms").css("left","100px");
+    });
+
+    $(window).scroll(function(){//滚动事件获取//判断滚动条高度
+        var $scroll = $(document).scrollTop();
+        if($scroll>700){//判断滚动条高度
+            $(".asids3").show();
+        }else{
+            $(".asids3").hide();
+        }
+    });
+
+
+    //吸顶效果
+    $(window).scroll(function(){//滚动事件获取//判断滚动条高度
+        var $scroll = $(document).scrollTop();
+        if($scroll>600){//判断滚动条高度
+            $(".top-dd").css("display","block");
+        }else{
+            $(".top-dd").css("display","none");
+        }
+    });
+
+    
 });
 
 
