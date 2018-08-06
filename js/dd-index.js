@@ -113,7 +113,11 @@ $(function(){
     $(window).scroll(function(){//滚动事件获取//判断滚动条高度
         var $scroll = $(document).scrollTop();
         if($scroll>700){//判断滚动条高度
-            $(".asids3").show();
+            $(".asids3").show().children().hover(function(){
+                $(this).children().css("left","30px");
+            },function(){
+                $(this).children().css("left","-500px");
+            });
         }else{
             $(".asids3").hide();
         }
@@ -130,6 +134,76 @@ $(function(){
         }
     });
 
+    //选显卡
+    $(".rct11-1b").mouseover(function(){
+        $(".rct11-2b").css("background","#fff");
+        $(".rct11-1b").css("background","#e6e6e6");
+        $(".rct11-1").css("display","block");
+        $(".rct11-2").css("display","none");
+
+    });
+    $(".rct11-2b").mouseover(function(){
+        $(".rct11-1b").css("background","#fff");
+        $(".rct11-2b").css("background","#e6e6e6");
+        $(".rct11-2").css("display","block");
+        $(".rct11-1").css("display","none");
+
+    });
+
+    $(".ss-c1r1b").mouseover(function(){
+        $(".ss-c1r1b").css("background","#ff2832");
+        $(".ss-c1r2b").css("background","#e6e6e6");
+        $(".box11").css("display","block");
+        $(".box12").css("display","none");
+
+    });
+    $(".ss-c1r2b").mouseover(function(){
+        $(".ss-c1r1b").css("background","#e6e6e6");
+        $(".ss-c1r2b").css("background","#ff2832");
+        $(".box11").css("display","none");
+        $(".box12").css("display","block");
+
+    });
+
+    //选项卡
+    $('.ban-boxleft').on('mouseenter', function() {
+        $('.nav-right').css("display","block");
+        $(".nav-right").removeClass('hide');
+    }).on('mouseleave', function() {
+        $('.nav-right').css("display","none");
+        $(".nav-right").addClass('hide');
+        $(".sub").addClass('hide');
+    }).on('mouseenter',"li", function(e) {
+        var li_data = $(this).attr('data-id');
+        $(".sub").addClass('hide');
+        $('.sub[data-id="' + li_data + '"]').removeClass('hide');
+    });
+
+    $(".ban-boxleft ul li a") .hover(function(){
+        $(this).parent().css("border","1px solid #ff2832");
+    },function(){
+        $(this).parent().css("border","1px solid #fff");
+    });
+
+    // 选显卡2
+    $('.c3l-top ul li').on('mouseenter',function(){
+        $(this).siblings().removeClass('show-t');
+        $(this).addClass('show-t');
+    }).on('mouseenter', function(e) {
+        var li_dat = $(this).attr('dat-id');
+        $(".c3B1").addClass('c3l-b1');
+        $('.c3B1[dat-id="' + li_dat + '"]').removeClass('c3l-b1');
+    });
+
+    //选显卡3
+    $('.c3-right ul li').on('mouseenter',function(){
+        $(this).siblings().removeClass('show11');
+        $(this).addClass('show11');
+    }).on('mouseenter', function(e) {
+        var li_dates = $(this).attr('dates-id');
+        $('.c3r31').addClass('c3r11');
+        $('.c3r31[dates-id="' + li_dates + '"]').removeClass('c3r11');
+    });
     
 });
 

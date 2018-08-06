@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/scss/dd-index.scss" line="1026" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6853ebf7-aa20-45c3-9b18-6f24019229a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -20,25 +23,74 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.89915967">
+    <splitter split-orientation="horizontal" split-proportion="0.8567104">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.41206458">
+        <splitter split-orientation="horizontal" split-proportion="0.8701413">
           <split-first>
-            <leaf>
-              <file leaf-file-name="dd-index.html" pinned="false" current-in-tab="true">
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+              <file leaf-file-name="dd-index.scss" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="207">
+                      <caret line="1288" column="49" lean-forward="true" selection-start-line="1288" selection-start-column="49" selection-end-line="1288" selection-end-column="49" />
+                      <folding>
+                        <element signature="e#799#1535#0" />
+                        <element signature="e#1550#2693#0" />
+                        <element signature="e#2702#3775#0" />
+                        <element signature="e#3784#5087#0" />
+                        <element signature="e#5106#12275#0" />
+                        <element signature="e#5293#5397#0" />
+                        <element signature="e#5407#8960#0" />
+                        <element signature="e#8971#11638#0" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="dd-index.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/dd-index.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="153">
-                      <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+                    <state relative-caret-position="193">
+                      <caret line="1310" column="4" selection-start-line="1310" selection-start-column="4" selection-end-line="1310" selection-end-column="4" />
                       <folding>
                         <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#svg#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-                        <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#3;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#4;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#5;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#6;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#ul#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#2;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#3;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#3;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#4;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#5;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#ul#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#div#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+                        <element signature="n#ul#0;n#div#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
                         <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
                       </folding>
                     </state>
@@ -52,12 +104,17 @@
               <file leaf-file-name="dd-index.scss" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="330">
-                      <caret line="254" column="17" lean-forward="true" selection-start-line="254" selection-start-column="17" selection-end-line="254" selection-end-column="17" />
+                    <state relative-caret-position="185">
+                      <caret line="1284" column="32" selection-start-line="1284" selection-start-column="32" selection-end-line="1284" selection-end-column="32" />
                       <folding>
                         <element signature="e#799#1535#0" />
-                        <element signature="e#1550#2378#0" />
-                        <element signature="e#2387#2889#0" />
+                        <element signature="e#1550#2693#0" />
+                        <element signature="e#2702#3775#0" />
+                        <element signature="e#3784#5087#0" />
+                        <element signature="e#5106#12275#0" />
+                        <element signature="e#5293#5397#0" />
+                        <element signature="e#5407#8960#0" />
+                        <element signature="e#8971#11638#0" />
                       </folding>
                     </state>
                   </provider>
@@ -72,8 +129,18 @@
           <file leaf-file-name="dd-index.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/dd-index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+                <state relative-caret-position="207">
+                  <caret line="193" column="2" lean-forward="true" selection-start-line="193" selection-start-column="2" selection-end-line="193" selection-end-column="2" />
+                  <folding>
+                    <element signature="e#47#206#0" />
+                    <element signature="e#275#567#0" />
+                    <element signature="e#699#731#0" />
+                    <element signature="e#1021#1578#0" />
+                    <element signature="e#1642#1924#0" />
+                    <element signature="e#1988#2412#0" />
+                    <element signature="e#2756#3134#0" />
+                    <element signature="e#3181#3408#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -109,9 +176,10 @@
         <option value="$PROJECT_DIR$/11.html" />
         <option value="$PROJECT_DIR$/scss/iconfont.css" />
         <option value="$PROJECT_DIR$/js/dd-index.html.js" />
+        <option value="E:/book/1802/EG（TX）/三级菜单和table切换/tb/css/style.css" />
         <option value="$PROJECT_DIR$/js/dd-index.js" />
-        <option value="$PROJECT_DIR$/dd-index.html" />
         <option value="$PROJECT_DIR$/scss/dd-index.scss" />
+        <option value="$PROJECT_DIR$/dd-index.html" />
       </list>
     </option>
   </component>
@@ -129,10 +197,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="142" />
-    <option name="y" value="95" />
-    <option name="width" value="1150" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-68" />
+    <option name="y" value="57" />
+    <option name="width" value="1340" />
     <option name="height" value="703" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -143,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,12 +221,18 @@
             <path>
               <item name="dd" type="b2602c69:ProjectViewProjectNode" />
               <item name="dd" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dd" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,6 +293,9 @@
       <workItem from="1533361878581" duration="5622000" />
       <workItem from="1533368614839" duration="1200000" />
       <workItem from="1533450956578" duration="9044000" />
+      <workItem from="1533517229815" duration="4049000" />
+      <workItem from="1533521514789" duration="9565000" />
+      <workItem from="1533540383795" duration="20183000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1533191346281</created>
@@ -232,20 +308,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168279000" />
+    <option name="totallyTimeSpent" value="202076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-68" y="57" width="1340" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04099561" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.04099561" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31076923" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30923077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,6 +332,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04099561" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30923077" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -267,21 +362,18 @@
     <MESSAGE value="5" />
     <option name="LAST_COMMIT_MESSAGE" value="5" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/dd-index.js</url>
+          <line>39</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dd-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="332" column="31" selection-start-line="332" selection-start-column="31" selection-end-line="332" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21736">
-          <caret line="988" column="14" lean-forward="true" selection-start-line="988" selection-start-column="14" selection-end-line="988" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/dd-index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2090">
@@ -568,40 +660,99 @@
     <entry file="file://$PROJECT_DIR$/scss/dd-index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+    <entry file="file://E:/book/1802/EG（TX）/三级菜单和table切换/tb/js/style.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="254" column="17" lean-forward="true" selection-start-line="254" selection-start-column="17" selection-end-line="254" selection-end-column="17" />
-          <folding>
-            <element signature="e#799#1535#0" />
-            <element signature="e#1550#2378#0" />
-            <element signature="e#2387#2889#0" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/book/1802/EG（TX）/三级菜单和table切换/tb/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="163" column="16" lean-forward="true" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dd-index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="193">
+          <caret line="1310" column="4" selection-start-line="1310" selection-start-column="4" selection-end-line="1310" selection-end-column="4" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#6;n#div#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1288" column="49" lean-forward="true" selection-start-line="1288" selection-start-column="49" selection-end-line="1288" selection-end-column="49" />
+          <folding>
+            <element signature="e#799#1535#0" />
+            <element signature="e#1550#2693#0" />
+            <element signature="e#2702#3775#0" />
+            <element signature="e#3784#5087#0" />
+            <element signature="e#5106#12275#0" />
+            <element signature="e#5293#5397#0" />
+            <element signature="e#5407#8960#0" />
+            <element signature="e#8971#11638#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/dd-index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="207">
+          <caret line="193" column="2" lean-forward="true" selection-start-line="193" selection-start-column="2" selection-end-line="193" selection-end-column="2" />
+          <folding>
+            <element signature="e#47#206#0" />
+            <element signature="e#275#567#0" />
+            <element signature="e#699#731#0" />
+            <element signature="e#1021#1578#0" />
+            <element signature="e#1642#1924#0" />
+            <element signature="e#1988#2412#0" />
+            <element signature="e#2756#3134#0" />
+            <element signature="e#3181#3408#0" />
+          </folding>
         </state>
       </provider>
     </entry>
