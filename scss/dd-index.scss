@@ -237,11 +237,12 @@ img{
   left:35px;
   display:none;
   background:#f6f6f6;
+  z-index: 100;
   li{
     width:38px;
     height:40px;
     position:relative;
-    span{
+    a{
       display: inline-block;
       line-height: 40px;
       height:40px;
@@ -259,7 +260,7 @@ img{
     background-position: 0 0;
     &:hover{
       background-color: #93d46f;
-      span{
+      a{
         background-color: #93d46f;
       }
     }
@@ -267,7 +268,7 @@ img{
       background-position :0 -40px;
       &:hover{
         background-color:#f97f67;
-        span{
+        a{
           background-color: #f97f67;
         }
       }
@@ -276,7 +277,7 @@ img{
       background-position:0 -80px;
       &:hover{
         background-color:#72d599;
-        pan{
+        a{
           background-color: #72d599;
         }
       }
@@ -285,7 +286,7 @@ img{
       background-position:0 -120px;
       &:hover{
         background-color:#ff857f;
-        pan{
+        a{
           background-color: #ff857f;
         }
       }
@@ -294,7 +295,7 @@ img{
       background-position:0 -160px;
       &:hover{
         background-color:#f97f67;
-        pan{
+        a{
           background-color: #f97f67;
         }
       }
@@ -1281,13 +1282,54 @@ img{
             list-style: decimal;
             li {
               list-style: decimal;
-              height: 32px;
-              margin-left: 30px;
-              width:160px;
-              color: #646464;
+              margin-left: 10px;
+              //width:160px;
               font-size: 12px;
-              line-height: 32px;
-              border-bottom: 1px solid #e5e5e5;
+              span{
+                display: block;
+                width:230px;
+                height:32px;
+                line-height:32px;
+                color: #646464;
+                font-size: 12px;
+                margin-left:10px;
+                border-bottom: 1px solid #e5e5e5;
+              }
+              div{
+                overflow: hidden;
+                display:none;
+                padding:10px 0;
+                width:250px;
+                border-bottom:1px solid #6e6e6e;
+                .imgfl{
+                  float:left;
+                  margin-top:10px;
+                  width:90px;
+                }
+                p{
+                  width:160px;
+                  float:left;
+                  a{
+                    font-size:12px;
+                    color:#969696;
+                    line-height:20px;
+                    width:160px;
+                    &:hover{
+                      color:#ff2832 ;
+                      text-decoration-line: underline;
+                    }
+                  }
+                  .fira{
+                    color:#646464;
+                  }
+                }
+              }
+            }
+            li:hover span{
+              display: none;
+            }
+            li:hover div{
+              display: block;
             }
           }
         }
@@ -1507,6 +1549,14 @@ img{
     .foot1a {
       width:940px;
       margin:0 auto;
+      &:after{
+        content:"";
+        clear:both;
+        display: block;
+        height:0;
+        overflow: hidden;
+        visibility: hidden;
+      }
       a{
         margin-top:12px;
         float:left;
@@ -1528,7 +1578,14 @@ img{
   }
   .foot2{
     padding:30px 0 23px;
-    overflow: hidden;
+    &:after{
+      content:"";
+      clear:both;
+      display: block;
+      height:0;
+      overflow: hidden;
+      visibility: hidden;
+    }
       .uls{
         width:940px;
         margin:0 auto;
@@ -1565,7 +1622,14 @@ img{
   .foot3{
     border-top:1px solid #ebebeb;
     ul{
-      overflow: hidden;
+      &:after{
+        content:"";
+        clear:both;
+        display: block;
+        height:0;
+        overflow: hidden;
+        visibility: hidden;
+      }
       margin: 0 auto;
       width:710px;
       li{
@@ -1603,7 +1667,14 @@ img{
       }
     }
     .foot3c{
-      overflow: hidden;
+      &:after{
+        content:"";
+        clear:both;
+        display: block;
+        height:0;
+        overflow: hidden;
+        visibility: hidden;
+      }
       width:915px;
       margin:25px auto 65px;
       a{

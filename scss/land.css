@@ -1,0 +1,416 @@
+@charset "UTF-8";
+/* CSS Document */
+body, div, p, ul, ol, li, dl, dt, dd, table, tr, td, form, hr, fieldset, h1, h2, h3, h4, h5, h6, img, input, figure {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "微软雅黑",Arial;
+  width: 100%; }
+
+a {
+  text-decoration: none; }
+
+ul, ol {
+  list-style: none; }
+
+img {
+  display: block;
+  border: 0; }
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden; }
+
+.cs1 {
+  display: inline-block;
+  background: url(../img/cs1.png) no-repeat; }
+
+.cs2 {
+  background: url(../img/rotate.jpg) no-repeat; }
+
+.fd {
+  display: none;
+  position: fixed;
+  top: 108px;
+  left: 0;
+  transform: translateX(50%);
+  margin-left: 245px;
+  width: 490px;
+  border: 1px solid #e6e6e6;
+  background-color: #fff; }
+  .fd h6 {
+    height: 40px;
+    text-align: center;
+    color: #646464;
+    font-size: 12px;
+    line-height: 40px;
+    background: #f5f5f5; }
+  .fd p {
+    margin-top: 18px;
+    padding: 0 50px 0 25px;
+    line-height: 24px;
+    font-size: 12px;
+    color: #646464; }
+    .fd p span {
+      color: #ff2832; }
+  .fd a {
+    display: block;
+    height: 25px;
+    width: 56px;
+    background: #ff2832;
+    border-radius: 2px;
+    margin: 24px auto 30px;
+    text-align: center;
+    font-size: 12px;
+    color: #fff; }
+
+.header {
+  width: 1200px;
+  margin: 15px auto;
+  overflow: hidden; }
+  .header .aleft {
+    float: left; }
+  .header .aright {
+    line-height: 70px;
+    float: right;
+    height: 42px;
+    color: #6c6c6c;
+    font-size: 12px; }
+    .header .aright img {
+      margin-top: 26px;
+      float: left;
+      margin-right: 5px; }
+
+.conter {
+  width: 1200px;
+  margin: 20px auto 0;
+  overflow: hidden; }
+  .conter .imgs {
+    margin-right: 35px;
+    overflow: hidden;
+    float: left;
+    width: 800px; }
+    .conter .imgs img {
+      margin-left: -625px; }
+  .conter .login {
+    margin-top: 65px;
+    float: left;
+    width: 365px; }
+    .conter .login .texs {
+      position: relative;
+      width: 100%; }
+      .conter .login .texs img {
+        width: 370px;
+        height: 26px; }
+      .conter .login .texs span {
+        position: absolute;
+        left: 37px;
+        top: 3px;
+        color: #828282;
+        font-size: 12px;
+        line-height: 24px; }
+      .conter .login .texs a {
+        position: absolute;
+        right: -2px;
+        top: 6px;
+        width: 60px;
+        font-size: 12px;
+        color: #ff2832; }
+    .conter .login .logs {
+      border: 1px solid #e6e6e6; }
+      .conter .login .logs .topp {
+        height: 61px; }
+        .conter .login .logs .topp h5 {
+          line-height: 64px;
+          font-size: 18px;
+          text-indent: 25px;
+          font-weight: 100;
+          float: left; }
+        .conter .login .logs .topp .box {
+          float: right;
+          width: 185px;
+          padding-right: 5px;
+          margin-top: 7px; }
+          .conter .login .logs .topp .box .d1 {
+            float: left;
+            height: 26px;
+            width: 119px;
+            line-height: 26px;
+            border: 1px solid #fedbd1;
+            background: #fef7f5;
+            font-size: 12px;
+            color: #ff572a; }
+            .conter .login .logs .topp .box .d1 img {
+              float: left;
+              margin: 6px; }
+          .conter .login .logs .topp .box .h {
+            float: right; }
+      .conter .login .logs form {
+        margin: 3px 24px 15px; }
+        .conter .login .logs form .cs1 {
+          width: 36px;
+          height: 36px;
+          border: 1px solid #e6e6e6;
+          border-right: none;
+          vertical-align: bottom;
+          background-position: 12px -150px; }
+          .conter .login .logs form .cs1:nth-child(1) {
+            background-position: 12px -110px; }
+        .conter .login .logs form .ints {
+          display: inline-block;
+          width: 273px;
+          height: 36px;
+          border: 1px solid #e6e6e6;
+          border-left: none;
+          vertical-align: bottom;
+          color: #b0b0b0;
+          font-size: 12px;
+          line-height: 36px; }
+        .conter .login .logs form .Gib {
+          height: 136px; }
+        .conter .login .logs form .b1, .conter .login .logs form .b2 {
+          float: left;
+          width: 100%;
+          height: 30px;
+          text-indent: 10px;
+          line-height: 30px;
+          font-size: 12px;
+          color: #b0b0b0;
+          visibility: hidden; }
+        .conter .login .logs form .bxx {
+          height: 16px;
+          line-height: 16px;
+          font-size: 12px;
+          color: #555555; }
+          .conter .login .logs form .bxx span {
+            height: 16px;
+            line-height: 16px;
+            float: right;
+            font-size: 12px;
+            color: #1a66b3; }
+        .conter .login .logs form .box3 {
+          height: 80px;
+          margin-top: 8px;
+          margin-bottom: 15px; }
+          .conter .login .logs form .box3 span {
+            margin-right: 5px;
+            float: left;
+            width: 72px;
+            height: 72px; }
+          .conter .login .logs form .box3 .cs2 {
+            background-position: 0 0; }
+            .conter .login .logs form .box3 .cs2:nth-child(2) {
+              background-position: -76px 0; }
+            .conter .login .logs form .box3 .cs2:nth-child(3) {
+              background-position: -152px 0; }
+            .conter .login .logs form .box3 .cs2:nth-child(4) {
+              background-position: -228px 0; }
+        .conter .login .logs form .box4 {
+          height: 30px; }
+          .conter .login .logs form .box4 label {
+            font-size: 12px; }
+          .conter .login .logs form .box4 .rems {
+            display: none; }
+          .conter .login .logs form .box4 a {
+            float: right;
+            color: #1a66b3;
+            font-size: 12px;
+            width: 60px;
+            line-height: 30px;
+            text-align: center;
+            margin-right: 0; }
+        .conter .login .logs form .btn {
+          display: block;
+          height: 44px;
+          width: 311px;
+          background: #ff2832;
+          color: #fff;
+          font-size: 18px;
+          line-height: 44px;
+          text-align: center;
+          border: none;
+          border-radius: 1px; }
+        .conter .login .logs form .bot {
+          padding-top: 8px; }
+          .conter .login .logs form .bot:after {
+            content: "";
+            height: 0;
+            clear: both;
+            overflow: hidden;
+            visibility: hidden;
+            display: block; }
+          .conter .login .logs form .bot .pp1 {
+            float: left;
+            color: #6e6e6e;
+            font-size: 12px;
+            line-height: 22px;
+            height: 22px;
+            width: 310px; }
+            .conter .login .logs form .bot .pp1 a {
+              float: right;
+              color: #6e6e6e;
+              font-size: 12px;
+              line-height: 22px;
+              height: 22px; }
+          .conter .login .logs form .bot .bott {
+            position: relative; }
+            .conter .login .logs form .bot .bott:after {
+              content: "";
+              height: 0;
+              clear: both;
+              overflow: hidden;
+              visibility: hidden;
+              display: block; }
+            .conter .login .logs form .bot .bott span {
+              float: left;
+              width: 20px;
+              height: 20px;
+              margin-right: 5px; }
+            .conter .login .logs form .bot .bott .cs1:nth-child(1) {
+              background-position: 0 -260px; }
+            .conter .login .logs form .bot .bott .cs1:nth-child(2) {
+              background-position: 0 -280px; }
+            .conter .login .logs form .bot .bott .cs1:nth-child(3) {
+              background-position: 0 -300px; }
+            .conter .login .logs form .bot .bott .cs1:nth-child(4) {
+              background-position: 0 -320px;
+              margin-right: 15px; }
+            .conter .login .logs form .bot .bott .cs1:nth-child(5) {
+              width: 40px;
+              line-height: 28px;
+              font-size: 12px;
+              color: #969696;
+              background-position: 33px -340px;
+              border: none; }
+            .conter .login .logs form .bot .bott .boot {
+              display: none;
+              position: absolute;
+              left: 110px;
+              top: 46px;
+              width: 200px;
+              height: 24px;
+              border: 1px solid #e6e6e6;
+              background: #fff; }
+              .conter .login .logs form .bot .bott .boot a {
+                color: #e6e6e6;
+                height: 24px;
+                line-height: 30px;
+                margin: 0 11px;
+                font-size: 12px; }
+    .conter .login .login1 {
+      display: block; }
+    .conter .login .login2 {
+      display: none; }
+      .conter .login .login2 .imgd {
+        width: 311px;
+        margin: 65px auto 0; }
+        .conter .login .login2 .imgd a {
+          display: none;
+          width: 163px;
+          height: 163px;
+          margin: 0 auto 65px;
+          border: 1px solid #e6e6e6; }
+          .conter .login .login2 .imgd a .g1 {
+            margin: 9px auto;
+            width: 145px; }
+        .conter .login .login2 .imgd .g2 {
+          display: none; }
+        .conter .login .login2 .imgd .box1 {
+          width: 160px;
+          margin: 0 auto;
+          position: relative; }
+          .conter .login .login2 .imgd .box1 img {
+            width: 135px;
+            margin: 0 auto 65px; }
+          .conter .login .login2 .imgd .box1 .mb {
+            position: absolute;
+            height: 135px;
+            font-weight: 600;
+            width: 160px;
+            background: rgba(255, 255, 255, 0.5);
+            top: 0px;
+            left: 0px; }
+          .conter .login .login2 .imgd .box1 p {
+            z-index: 10;
+            width: 160px;
+            position: absolute;
+            height: 20px;
+            font-weight: 600;
+            top: 30px;
+            left: 0px;
+            font-size: 16px;
+            color: black;
+            text-align: center; }
+          .conter .login .login2 .imgd .box1 a {
+            z-index: 10;
+            position: absolute;
+            top: 60px;
+            left: 18px;
+            display: block;
+            height: 36px;
+            width: 123px;
+            line-height: 36px;
+            background: #ff2832;
+            text-align: center; }
+      .conter .login .login2 h4 {
+        margin-bottom: 75px;
+        width: 360px;
+        font-size: 12px;
+        color: #323232;
+        text-align: center;
+        height: 18px; }
+        .conter .login .login2 h4 a {
+          color: #ff2832; }
+
+.foot {
+  margin-top: 20px;
+  width: 100%;
+  border-top: 2px solid #ff2832; }
+  .foot .foot3 {
+    border-top: 1px solid #ebebeb; }
+    .foot .foot3 ul {
+      overflow: hidden;
+      margin: 0 auto;
+      width: 710px; }
+      .foot .foot3 ul li {
+        float: left;
+        height: 56px; }
+        .foot .foot3 ul li a {
+          padding: 0 20px 0 18px;
+          color: #8c8c8c;
+          font-size: 12px;
+          line-height: 54px; }
+        .foot .foot3 ul li .s6 {
+          background: url("../img/sub_line_bg.png");
+          display: inline-block;
+          width: 2px;
+          height: 14px;
+          line-height: 56px; }
+    .foot .foot3 h5 {
+      color: #8c8c8c;
+      font-size: 14px;
+      text-align: center;
+      line-height: 38px;
+      font-weight: 100; }
+    .foot .foot3 p {
+      text-align: center;
+      font-size: 12px;
+      color: #8c8c8c;
+      line-height: 22px; }
+      .foot .foot3 p:nth-child(2) {
+        line-height: 18px; }
+    .foot .foot3 .foot3c {
+      overflow: hidden;
+      width: 915px;
+      margin: 25px auto 65px; }
+      .foot .foot3 .foot3c a {
+        float: left;
+        margin-right: 50px; }
+        .foot .foot3 .foot3c a:last-child {
+          margin-right: 0; }
+
+/*# sourceMappingURL=land.css.map */
