@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <title>新用户注册-当当网</title>
     <link rel="stylesheet" href="css/register.css">
-    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery.1.8.3.js"></script>
     <script src="js/register.js"></script>
+    <script src="gulpfile.js"></script>
 </head>
 <body>
 <a class="fixd1" href="#"><img src="img/xiaodangdang.png" alt=""></a>
@@ -58,18 +59,18 @@
     <div class="sec-bott">
         <div class="box1">
             <p class="p1"><img src="img/new_tip.png" alt="">贴心提示：请勿设置与邮箱密码相同的账户登录密码或支付密码，防止不法分子窃取您的当当账户信息，<a href="#">谨防诈骗！</a></p>
-            <form action="">
-                <p class="pt2"><span class="ps1 ps2">手机号码</span><input class="int01" type="text" value="请输入你的手机号码"><span class="pand pand1"></span></p>
+            <form action="php/regSave.php" method="post">
+                <p class="pt2"><span class="ps1 ps2">手机号码</span><input name="vipnum" class="int01" type="text" value="请输入你的手机号码"><span class="pand pand1"></span></p>
                 <p class="pt1 pa1"></p>
-                <p class="pt2"><span class="ps1 ps2">登录密码</span><input class="int02"  type="password"><span class="pand pand2"></span></p>
+                <p class="pt2"><span class="ps1 ps2">登录密码</span><input name="vippsword" class="int02"  type="password"><span class="pand pand2"></span></p>
                 <p class="pt1 pa2"></p>
-                <p class="pt2"><span class="ps1 ps2">确认密码</span><input class="int03" type="password"><span class="pand pand3"></span></p>
+                <p class="pt2"><span class="ps1 ps2">确认密码</span><input name="" class="int03" type="password"><span class="pand pand3"></span></p>
                 <p class="pt1 pa3"></p>
-                <p class="pt2"><span class="ps1 ps2">验证码</span><input class="pi1" type="text"><span class="simg"></span><span class="pst1">换张图片</span></p>
+                <p class="pt2"><span class="ps1 ps2">验证码</span><input name="" class="pi1" type="text"><span class="simg"></span><span class="pst1">换张图片</span></p>
                 <p class="pt1 pa4"></p>
-                <p class="pt3"><input type="checkbox"> <label for="">我已阅读并同意</label><a href="#">当当交易条款</a>和<a href="#">当当社区条款</a></p>
+                <p class="pt3"><input name="" type="checkbox"> <label for="">我已阅读并同意</label><a href="#">当当交易条款</a>和<a href="#">当当社区条款</a></p>
                 <p class="pt1">。。你必须同意当当服务条款后,才能提交注册..</p>
-                <p><input class="ipt2" type="botton" value="立即注册"></p>
+                <p><input name="" class="ipt2" type="submit" value="立即注册"></p>
             </form>
         </div>
     </div>

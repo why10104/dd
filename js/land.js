@@ -31,9 +31,8 @@ $(function(){
 
    //验证会员
     
-   $('.ints11').on("focus",function(){
+   $('.ts11').on("focus",function(){
        $(this).val("");
-       console.log($('.b1').text());
        $('.b1').text("请输入邮箱、昵称、手机号");
    }).on("blur",function(){
        if($(this).val() ==""){
@@ -44,7 +43,6 @@ $(function(){
 
     $('.ints12').on("focus",function(){
        $(this).val("");
-       console.log($('.b1').text());
        $('.b2').text("请填写6-20位长度的字符密码");
    }).on("blur",function(){
        if($(this).val() ==""){

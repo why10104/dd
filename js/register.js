@@ -17,11 +17,36 @@ $(function(){
           $(".pand1").text("×");
           $(".pa1").text("号码输入错误，请重新输入");
       };
+
       if($(this).val() == ""){
           $(this).val("请输入你的手机号码");
           $(".pa1").text("");
           $(".pand").text("");
       };
+      $.post(
+          "php/checkUser.php",
+          {
+              "vipnum":$(".int01").val()
+          },
+          function(data){
+              if(data=="1"){
+                  $(".pand1").text("×");
+                  $(".pa1").text("号码号已存在，请重新输入");
+              }else{
+                  $(".pand1").html("√");
+                  $(".pa1").text("恭喜没人使用，请继续注册");
+              }
+          }
+      );
+
+      // $.post("/try/ajax/demo_test_post.php",{
+      //         name:"菜鸟教程",
+      //         url:"http://www.runoob.com"
+      //     },
+      //     function(data,status){
+      //         alert("数据: \n" + data + "\n状态: " + status);
+      //     });
+
   });
 
     //密码验证
