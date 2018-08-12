@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6853ebf7-aa20-45c3-9b18-6f24019229a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/php/loginCheck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/goodsDetail.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dd-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dd-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/land.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/land.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/land.html" beforeDir="false" afterPath="$PROJECT_DIR$/land.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,34 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="loginCheck.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php/loginCheck.php">
+      <file leaf-file-name="goodsDetail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goodsDetail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="land.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/land.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="1911">
+              <caret line="233" column="28" lean-forward="true" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="28" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="land.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/land.js">
+      <file leaf-file-name="goodsDetail.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/goodsDetail.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+            <state relative-caret-position="214">
+              <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+              <folding>
+                <element signature="e#32780#35675#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +108,11 @@
         <option value="$PROJECT_DIR$/php/regSave.php" />
         <option value="$PROJECT_DIR$/land.html" />
         <option value="$PROJECT_DIR$/js/land.js" />
+        <option value="$PROJECT_DIR$/scss/list.scss" />
+        <option value="$PROJECT_DIR$/list.html" />
+        <option value="$PROJECT_DIR$/goodsDetail.html" />
+        <option value="$PROJECT_DIR$/scss/goodsDetail.scss" />
+        <option value="E:/book/1801/放大镜/index.html" />
       </list>
     </option>
   </component>
@@ -141,10 +131,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
-    <option name="y" value="50" />
-    <option name="width" value="828" />
-    <option name="height" value="754" />
+    <option name="x" value="-153" />
+    <option name="y" value="165" />
+    <option name="width" value="1374" />
+    <option name="height" value="434" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -154,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,10 +161,16 @@
               <item name="dd" type="462c0819:PsiDirectoryNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dd" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +184,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\dd\scss" />
       <recent name="E:\dd\php" />
       <recent name="D:\phpStudy\WWW\11" />
       <recent name="E:\dd" />
@@ -268,6 +264,7 @@
       <workItem from="1533976615436" duration="352000" />
       <workItem from="1533977015625" duration="48000" />
       <workItem from="1533977137292" duration="4756000" />
+      <workItem from="1534043396217" duration="21055000" />
     </task>
     <task id="LOCAL-00001" summary="5">
       <created>1533191346281</created>
@@ -280,18 +277,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="318606000" />
+    <option name="totallyTimeSpent" value="339661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="50" width="828" height="754" extended-state="0" />
+    <frame x="-153" y="165" width="1374" height="434" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10837439" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03166421" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30923077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30461538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -308,19 +305,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04099561" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30923077" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -340,28 +337,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/iconfont.css" />
-    <entry file="file://$PROJECT_DIR$/11.html" />
-    <entry file="file://$PROJECT_DIR$/js/dd-index.html.js" />
-    <entry file="file://D:/phpStudy/WWW/ddx/css/dd-index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198" />
-      </provider>
-    </entry>
-    <entry file="file://E:/book/1802/EG（TX）/三级菜单和table切换/tb/js/style.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/book/1802/EG（TX）/三级菜单和table切换/tb/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="163" column="16" lean-forward="true" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/land.scss.css" />
     <entry file="file://$PROJECT_DIR$/scss/dd-index.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -382,22 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="30" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#799#1535#0" />
-            <element signature="e#1550#2693#0" />
-            <element signature="e#2702#3775#0" />
-            <element signature="e#3784#5088#0" />
-            <element signature="e#5107#12276#0" />
-            <element signature="e#12294#17639#0" />
-            <element signature="e#17658#32766#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,10 +500,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php/loginCheck.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/land.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/land.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="22">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -553,17 +526,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/land.js">
+    <entry file="file://$PROJECT_DIR$/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        <state relative-caret-position="284">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/loginCheck.php">
+    <entry file="file://$PROJECT_DIR$/scss/list.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="440">
+          <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding>
+            <element signature="e#486#5965#0" />
+            <element signature="e#687#2813#0" />
+            <element signature="e#2827#5328#0" />
+            <element signature="e#5005#5015#0" />
+            <element signature="e#5585#5945#0" />
+            <element signature="e#6389#6403#0" />
+            <element signature="e#6892#7667#0" />
+            <element signature="e#7672#7785#0" />
+            <element signature="e#9433#12293#0" />
+            <element signature="e#8448#9090#0" />
+            <element signature="e#8540#9081#0" />
+            <element signature="e#8595#8740#0" />
+            <element signature="e#8748#9068#0" />
+            <element signature="e#8860#8910#0" />
+            <element signature="e#8934#8985#0" />
+            <element signature="e#9009#9060#0" />
+            <element signature="e#9099#9964#0" />
+            <element signature="e#9137#9268#0" />
+            <element signature="e#9279#9960#0" />
+            <element signature="e#9338#9943#0" />
+            <element signature="e#9425#9554#0" />
+            <element signature="e#9570#9922#0" />
+            <element signature="e#9669#9897#0" />
+            <element signature="e#9786#9883#0" />
+            <element signature="e#9973#11256#0" />
+            <element signature="e#10015#10601#0" />
+            <element signature="e#10608#10734#0" />
+            <element signature="e#10740#10899#0" />
+            <element signature="e#10911#11247#0" />
+            <element signature="e#10926#11071#0" />
+            <element signature="e#11127#11241#0" />
+            <element signature="e#11196#11233#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111/getGoodsInfo.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/dd-index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="35" column="2" lean-forward="true" selection-start-line="33" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="e#799#1535#0" />
+            <element signature="e#1550#2693#0" />
+            <element signature="e#2702#3775#0" />
+            <element signature="e#3784#5088#0" />
+            <element signature="e#5107#12276#0" />
+            <element signature="e#12294#17639#0" />
+            <element signature="e#17658#32766#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/book/1801/放大镜/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/goodsDetail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding>
+            <element signature="e#32780#35675#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodsDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1911">
+          <caret line="233" column="28" lean-forward="true" selection-start-line="233" selection-start-column="28" selection-end-line="233" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
